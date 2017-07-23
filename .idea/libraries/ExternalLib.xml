@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ExternalLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ExternalLib/selenium-server-standalone-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExternalLib/testng-6.8.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
